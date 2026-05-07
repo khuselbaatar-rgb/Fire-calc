@@ -453,7 +453,7 @@ with col2:
 st.markdown("---")
 col_ft1, col_ft2, col_ft3 = st.columns(3)
 with col_ft1:
-    st.caption("📧 info@OnlineCalculatorJBK.com")
+    st.caption("📧 khuselbaatar.com")
 with col_ft2:
     st.caption("📱 +7 929 905 62 05")
 with col_ft3:
